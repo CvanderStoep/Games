@@ -2,9 +2,7 @@
 
 
 Tower of Hanoi
-
 nQueens
-
 Sudoku
 
 
