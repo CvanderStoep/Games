@@ -1,5 +1,4 @@
 # Games
-Various games:
 
 
 Tower of Hanoi
